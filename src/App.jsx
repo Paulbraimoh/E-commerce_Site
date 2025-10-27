@@ -6,6 +6,7 @@ import ShopCategory from "./pages/ShopCategory";
 import Footer from "./Components/Footer/Footer";
 import Product from "./pages/Product";
 import Cart from "./pages/Cart";
+import LoginSignup from "./pages/LoginSignup";
 import men_banner from "./Components/assets/banner_mens.png";
 import women_banner from "./Components/assets/banner_women.png";
 import kids_banner from "./Components/assets/banner_kids.png";
